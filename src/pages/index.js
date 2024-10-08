@@ -3,7 +3,7 @@ import React from 'react';
 const IndexPage = () => (
   <main>
     <h1>Welcome to My Gatsby Site</h1>
-    <p>Hello! My name is Alparslan Usta.</p>
+    <p>Hello! My name is Alparslan Usta!!!!!!!!.</p>
 
     <h2>How to Deploy this Site on Netlify</h2>
     <ol>
