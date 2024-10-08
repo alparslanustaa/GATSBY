@@ -3,9 +3,9 @@ import React from 'react';
 const IndexPage = () => (
   <main>
     <h1>Welcome to My Gatsby Site</h1>
-    <p>Hello! My name is Alparslan Usta!!!!!!!!ALIASFJDSAKLJKLDSJGKSGK.</p>
+    <p>Hello! My name is Alparslan Usta.</p>
 
-    <h2>How to Deploy this Site on Netlify</h2>
+    <h2>How to Deploy this Site on 123Netlify</h2>
     <ol>
       <li>
         <strong>Step 1:</strong> Go to <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">Netlify</a> and sign up for a free account, or log in if you already have one.
